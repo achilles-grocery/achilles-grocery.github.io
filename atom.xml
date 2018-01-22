@@ -5,9 +5,9 @@
   <subtitle>杂学 历史 金融 摄影 电影</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://achilles-grocery.github.io/"/>
   <updated>2018-01-20T03:00:34.361Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://achilles-grocery.github.io/</id>
   
   <author>
     <name>阿喀琉斯</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/posts/undefined/"/>
-    <id>http://yoursite.com/posts/undefined/</id>
+    <link href="https://achilles-grocery.github.io/posts/undefined/"/>
+    <id>https://achilles-grocery.github.io/posts/undefined/</id>
     <published>2018-01-20T03:00:34.360Z</published>
     <updated>2018-01-20T03:00:34.361Z</updated>
     
