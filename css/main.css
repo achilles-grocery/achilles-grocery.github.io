@@ -1641,6 +1641,13 @@ pre .javascript .function {
 .fancybox-close:hover {
   border: none;
 }
+.post-copyright {
+  margin: 2em 0 0;
+  padding: 0.5em 1em;
+  border-left: 3px solid #ff1700;
+  background-color: #f9f9f9;
+  list-style: none;
+}
 .rtl.post-body p,
 .rtl.post-body a,
 .rtl.post-body h1,
@@ -1822,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #751dff;
+  background: #677c66;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2514,4 +2521,10 @@ embed {
   .menu .menu-item a {
     padding: 5px 10px;
   }
+}
+li.popular-posts-item {
+  list-style-type: circle;
+}
+.popular-posts-title h3 {
+  font-size: 14px;
 }
